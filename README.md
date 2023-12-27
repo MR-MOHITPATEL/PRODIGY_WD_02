@@ -9,8 +9,4 @@ This repository contains a simple stopwatch application built with HTML, CSS, an
 - *Lap Logging:* Log laps while the stopwatch is running.
 - *Clear Laps:* Clear all recorded laps.
 
-## Usage
 
-1. *Clone Repository:*
-   ```bash
-   git clone https://github.com/your-username/stopwatch-app.git
